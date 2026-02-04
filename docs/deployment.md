@@ -1,3 +1,9 @@
+---
+layout: default
+title: Deployment
+permalink: /deployment/
+---
+
 # Deployment & DevOps
 
 Complete guide to deploying and operating the BugBounty KSP platform in production environments.
