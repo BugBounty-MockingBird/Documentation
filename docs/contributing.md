@@ -1,3 +1,9 @@
+---
+layout: default
+title: Contributing
+permalink: /contributing/
+---
+
 # Contributing Guidelines
 
 Thank you for your interest in contributing to the BugBounty KSP platform! This document provides guidelines and instructions for contributing.

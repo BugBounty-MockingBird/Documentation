@@ -1,3 +1,9 @@
+---
+layout: default
+title: Discord Integration
+permalink: /discord-integration/
+---
+
 # Discord Integration Setup
 
 Complete guide to setting up and configuring Discord bot integration with the BugBounty KSP platform.

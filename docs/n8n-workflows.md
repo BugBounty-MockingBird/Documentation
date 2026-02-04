@@ -1,3 +1,9 @@
+---
+layout: default
+title: n8n Workflows
+permalink: /n8n-workflows/
+---
+
 # n8n Workflow Guides
 
 Comprehensive guide to automation workflows in the BugBounty KSP platform using n8n.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: API Reference
+permalink: /api-reference/
+---
+
 # API Reference
 
 Complete API documentation for the BugBounty KSP platform.

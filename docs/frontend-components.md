@@ -1,3 +1,9 @@
+---
+layout: default
+title: Frontend Components
+permalink: /frontend-components/
+---
+
 # Frontend Component Library
 
 Documentation for the BugBounty KSP frontend component library, built with React and TypeScript.

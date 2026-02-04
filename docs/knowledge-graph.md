@@ -1,3 +1,9 @@
+---
+layout: default
+title: Knowledge Graph
+permalink: /knowledge-graph/
+---
+
 # Knowledge Graph & Learning Paths Guide
 
 Comprehensive guide to the Knowledge Graph system and Learning Paths in the BugBounty KSP platform.

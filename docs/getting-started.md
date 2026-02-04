@@ -1,3 +1,9 @@
+---
+layout: default
+title: Getting Started
+permalink: /getting-started/
+---
+
 # Getting Started Guide
 
 Welcome to the BugBounty KSP platform! This guide will help you get up and running quickly.

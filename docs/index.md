@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+permalink: /
+---
+
 # BugBounty KSP Documentation
 
 Welcome to the BugBounty KSP documentation! This comprehensive guide will help you understand, use, and contribute to the BugBounty KSP platform.

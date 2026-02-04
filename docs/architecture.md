@@ -1,3 +1,9 @@
+---
+layout: default
+title: Architecture
+permalink: /architecture/
+---
+
 # Architecture & Design Decisions
 
 This document outlines the architectural patterns, design decisions, and technical philosophy behind the BugBounty KSP platform.
