@@ -327,6 +327,7 @@ Displays vulnerability report summary.
 ```tsx
 import { ReportCard } from '@/components/ReportCard';
 
+{% raw %}
 <ReportCard
   report={{
     id: 'uuid',
@@ -337,6 +338,7 @@ import { ReportCard } from '@/components/ReportCard';
   }}
   onClick={() => navigate(`/reports/${report.id}`)}
 />
+{% endraw %}
 ```
 
 ### ProgramCard
@@ -346,6 +348,7 @@ Displays bounty program information.
 ```tsx
 import { ProgramCard } from '@/components/ProgramCard';
 
+{% raw %}
 <ProgramCard
   program={{
     name: 'Web Application Security',
@@ -354,6 +357,7 @@ import { ProgramCard } from '@/components/ProgramCard';
     total_reports: 125
   }}
 />
+{% endraw %}
 ```
 
 ### SeverityBadge
