@@ -343,6 +343,7 @@ import { ReportCard } from '@/components/ReportCard';
 
 Displays bounty program information.
 
+{% raw %}
 ```tsx
 import { ProgramCard } from '@/components/ProgramCard';
 
@@ -355,6 +356,7 @@ import { ProgramCard } from '@/components/ProgramCard';
   }}
 />
 ```
+{% endraw %}
 
 ### SeverityBadge
 
