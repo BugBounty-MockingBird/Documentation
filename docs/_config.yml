@@ -4,6 +4,9 @@ description: Comprehensive documentation for the BugBounty KSP platform
 theme: jekyll-theme-cayman
 baseurl: ""
 
+# Permalink settings - generates clean URLs without .html extension
+permalink: /:title/
+
 # Optional custom domain (uncomment to use)
 # url: "https://docs.bugbounty-ksp.com"
 
