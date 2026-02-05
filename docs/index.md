@@ -19,6 +19,9 @@ Deep dive into the system architecture, design patterns, and key technical decis
 ### [API Reference](api-reference.md)
 Complete API documentation including endpoints, request/response formats, authentication, and usage examples.
 
+### [Python SDK](python-sdk.md) 🆕
+Official Python SDK for the BugBountyKE-KSP Platform. Learn how to use the SDK for API key generation, article publishing, and integration with the platform. Available on [PyPI](https://pypi.org/project/bugbounty-ksp-api-client/).
+
 ### [Frontend Component Library](frontend-components.md)
 Guide to the reusable UI components, styling system, and frontend architecture.
 

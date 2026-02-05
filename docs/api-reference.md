@@ -8,6 +8,8 @@ permalink: /api-reference/
 
 Complete API documentation for the BugBounty KSP platform.
 
+**📦 Using Python?** Check out the [Python SDK Documentation](python-sdk.md) for easier integration with our official SDK available on [PyPI](https://pypi.org/project/bugbounty-ksp-api-client/).
+
 ## 🌐 Base URL
 
 ```

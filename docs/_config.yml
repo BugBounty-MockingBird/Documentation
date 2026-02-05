@@ -20,6 +20,8 @@ navigation:
     url: /architecture
   - title: API Reference
     url: /api-reference
+  - title: Python SDK
+    url: /python-sdk
   - title: Frontend Components
     url: /frontend-components
   - title: n8n Workflows
